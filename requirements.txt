@@ -6,3 +6,4 @@ plotly
 huggingface_hub
 lightgbm
 protobuf<7
+scikit-learn
