@@ -17,3 +17,5 @@ venv/
 
 # Streamlit secrets
 .streamlit/secrets.toml
+#train.csv
+#test.csv
