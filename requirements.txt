@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+plotly
+huggingface_hub
+lightgbm
+protobuf<7

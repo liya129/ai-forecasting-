@@ -1,0 +1,19 @@
+# Large model files
+models/*.pkl
+models/*.keras
+
+# Dataset files
+train.csv
+test.csv
+sample_submission.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
