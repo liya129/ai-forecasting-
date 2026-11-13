@@ -180,7 +180,7 @@ The project uses the Rossmann Store Sales dataset, containing historical store s
 
 \- GitHub: https://github.com/anish071
 
-\- LinkedIn: https://www.linkedin.com/in/anish-kumar-tiwari-90412a2b6/
+\- LinkedIn:www.linkedin.com/in/prashanthi-k-2a7229329
 
 
 
