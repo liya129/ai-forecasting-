@@ -174,11 +174,10 @@ The project uses the Rossmann Store Sales dataset, containing historical store s
 
 
 
-\*\*Anish Kumar Tiwari\*\*
+\*\*prashanthi\*\*
 
 
 
-\- GitHub: https://github.com/anish071
 
 \- LinkedIn:www.linkedin.com/in/prashanthi-k-2a7229329
 
